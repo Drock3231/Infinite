@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="error" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Debug" />
+        <option name="packageNamePattern" value="" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Infinite-desktop:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2102327-1ef2-4f70-b090-363224e2ea5b" name="Default" comment="" />
+    <ignored path="Infinite.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Infinite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Infinite-desktop/src/com/detel/infinite/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="25" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Infinite-android/src/com/detel/infinite/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="40" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Infinite.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/Infinite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="37" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenGameOver.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenGameOver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="46" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.0" vertical-offset="1190" max-vertical-offset="1989">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenGame.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="5" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="2703">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="50" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1462">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenMainMenu.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenMainMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="21" selection-start="874" selection-end="933" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1683">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorldRenderer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/views/WorldRenderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="21" selection-start="1313" selection-end="1326" vertical-scroll-proportion="0.31310943" vertical-offset="221" max-vertical-offset="1989">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/CameraController.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Air.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/BlockStar.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Block.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/BlockAir.java" />
+        <option value="$PROJECT_DIR$/Infinite-desktop/src/com/detel/infinite/Main.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/BlockSlope.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Chunk.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/ChunkController.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/WorldController.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Player.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/World.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Enemy.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/ThrowingKnife.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenPause.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenBase.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/CustomGame.java" />
+        <option value="$PROJECT_DIR$/Infinite-android/src/com/detel/infinite/MainActivity.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/KnifeController.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/EnemyController.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/PlayerController.java" />
+        <option value="$PROJECT_DIR$/Infinite-android/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/Infinite.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenGame.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenMainMenu.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenGameOver.java" />
+        <option value="$PROJECT_DIR$/Infinite/src/com/detel/infinite/views/WorldRenderer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Infinite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IoR/build.gradle" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="FullScreen" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="17e6eea5" />
+    <property name="options.lastSelected" value="preferences.sourceCode.XML" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Desktop-starter">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Infinite-android" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="Infinite-android" />
+      <option name="ACTIVITY_CLASS" value="com.detel.infinite.MainActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Desktop-starter" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.detel.infinite.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/Infinite-android/assets" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Infinite-desktop" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.Infinite-android" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Desktop-starter" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2102327-1ef2-4f70-b090-363224e2ea5b" name="Default" comment="" />
+      <created>1393018467138</created>
+      <updated>1393018467138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39831403" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39936775" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Chunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="23" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/PlayerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="26" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/views/WorldRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1420" selection-end="1420" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/Infinite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="36" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="459" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="31" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/WorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="26" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Chunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="23" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/PlayerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="26" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/views/WorldRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1420" selection-end="1420" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/Infinite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="36" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="459" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/WorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/views/WorldRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite-desktop/src/com/detel/infinite/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Infinite/libs/gdx.jar!/com/badlogic/gdx/InputProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="12" selection-start="192" selection-end="192" vertical-scroll-proportion="0.19653179" vertical-offset="0" max-vertical-offset="519" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Infinite/libs/gdx.jar!/com/badlogic/gdx/math/Rectangle.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="80" selection-start="2843" selection-end="2843" vertical-scroll-proportion="0.5086705" vertical-offset="858" max-vertical-offset="1377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="50" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Infinite/libs/gdx.jar!/com/badlogic/gdx/math/Intersector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Chunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/BlockAir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="24" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="858" column="0" selection-start="31271" selection-end="31271" vertical-scroll-proportion="0.0" vertical-offset="14014" max-vertical-offset="19635" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Infinite-desktop/libs/gdx-backend-lwjgl.jar!/com/badlogic/gdx/backends/lwjgl/LwjglApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="59" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/ThrowingKnife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="46" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="376" max-vertical-offset="986" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/ChunkController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="57" selection-start="3032" selection-end="3032" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2006" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Infinite/libs/gdx.jar!/com/badlogic/gdx/scenes/scene2d/ui/TableLayout.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="170" vertical-scroll-proportion="0.03359684" vertical-offset="0" max-vertical-offset="506" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/WorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="5" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="213" selection-end="213" vertical-scroll-proportion="0.34375" vertical-offset="0" max-vertical-offset="850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IoR/core/src/com/detel/ior/IoR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="39" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/KnifeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="20" selection-start="6233" selection-end="6233" vertical-scroll-proportion="0.51926607" vertical-offset="2114" max-vertical-offset="2822" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenPause.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="5" selection-start="129" selection-end="285" vertical-scroll-proportion="0.6238532" vertical-offset="0" max-vertical-offset="545" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite-android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="27" selection-start="365" selection-end="365" vertical-scroll-proportion="0.18418202" vertical-offset="0" max-vertical-offset="923" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite-android/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="11" selection-start="50" selection-end="50" vertical-scroll-proportion="0.02905983" vertical-offset="0" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/EnemyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="203" column="20" selection-start="7976" selection-end="7976" vertical-scroll-proportion="0.13606557" vertical-offset="3147" max-vertical-offset="3757" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/PlayerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="193" column="95" selection-start="7677" selection-end="7677" vertical-scroll-proportion="0.055737704" vertical-offset="3009" max-vertical-offset="4709" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/controllers/CameraController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="59" selection-start="553" selection-end="553" vertical-scroll-proportion="0.5852459" vertical-offset="0" max-vertical-offset="610" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite-desktop/src/com/detel/infinite/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="25" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Android/android-sdk/sources/android-17/android/hardware/SystemSensorManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="396" column="22" selection-start="15337" selection-end="15337" vertical-scroll-proportion="0.7504587" vertical-offset="5813" max-vertical-offset="6358" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite-android/src/com/detel/infinite/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="40" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Infinite/libs/gdx.jar!/com/esotericsoftware/tablelayout/Cell.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="49" selection-start="8455" selection-end="8455" vertical-scroll-proportion="0.44970414" vertical-offset="2458" max-vertical-offset="5763" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenMainMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="21" selection-start="874" selection-end="933" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenGameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="46" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/Infinite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="37" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/screens/ScreenGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/models/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="50" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite/src/com/detel/infinite/views/WorldRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="21" selection-start="1313" selection-end="1326" vertical-scroll-proportion="0.31310943" vertical-offset="221" max-vertical-offset="1989">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Infinite-desktop:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Infinite-android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libs2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

@@ -1,0 +1,9 @@
+debug
+* spacing:1 padding:0 align:center
+'Infinite' spacingBottom:0
+---
+[startGameButton] width:5 height:1
+---
+[optionsButton] width:5 height:1
+---
+[hallOfFameButton] width:5 height:1
